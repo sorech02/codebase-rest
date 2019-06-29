@@ -27,7 +27,7 @@ def get_cvx(cvx_id):
     cvx = [cvx for cvx in cvxs if cvx['id'] == cvx_id]
     if len(cvx) == 0:
         abort(404)
-    return jsonify({'cvx': cvx})
+    return jsonify({'cvx': cvx[0]})
 
 @app.errorhandler(404)
 def not_found(error):
@@ -42,5 +42,3 @@ def build_instance_uri(instance):
             new_instance[field] = instance[field]
     return new_instance
 
-if __name__ == '__main__':
-    app.run(debug=True)
