@@ -1,0 +1,987 @@
+[
+    {
+        "id": "143",
+        "description": "Adenovirus, type 4 and type 7, live, oral Notes: This vaccine is administered as 2 tablets.",
+        "label": "Adenovirus types 4 and 7",
+    },
+    {
+        "id": "54",
+        "description": "adenovirus vaccine, type 4, live, oral",
+        "label": "adenovirus, type 4",
+    },
+    {
+        "id": "55",
+        "description": "adenovirus vaccine, type 7, live, oral",
+        "label": "adenovirus, type 7",
+    },
+    {
+        "id": "82",
+        "description": "adenovirus vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a adenovirus vaccination when noted on a vaccination card)",
+        "label": "adenovirus, unspecified formulation",
+    },
+    {
+        "id": "24",
+        "description": "anthrax vaccine",
+        "label": "anthrax",
+    },
+    {
+        "id": "181",
+        "description": "anthrax immune globulin",
+        "label": "anthrax immune globulin",
+    },
+    {
+        "id": "801",
+        "description": "AS03 Adjuvant Notes: This is the adjuvant that is packaged with H5N1 vaccine, adjuvanted",
+        "label": "AS03 Adjuvant",
+    },
+    {
+        "id": "19",
+        "description": "Bacillus Calmette-Guerin vaccine",
+        "label": "BCG",
+    },
+    {
+        "id": "27",
+        "description": "botulinum antitoxin",
+        "label": "botulinum antitoxin",
+    },
+    {
+        "id": "26",
+        "description": "cholera vaccine, unspecified formulation",
+        "label": "cholera",
+    },
+    {
+        "id": "173",
+        "description": "cholera, BivWC",
+        "label": "cholera, BivWC",
+    },
+    {
+        "id": "174",
+        "description": "cholera, live attenuated",
+        "label": "cholera, live attenuated",
+    },
+    {
+        "id": "172",
+        "description": "cholera, WC-rBS",
+        "label": "cholera, WC-rBS",
+    },
+    {
+        "id": "29",
+        "description": "cytomegalovirus immune globulin, intravenous",
+        "label": "CMVIG",
+    },
+    {
+        "id": "56",
+        "description": "dengue fever vaccine",
+        "label": "dengue fever",
+    },
+    {
+        "id": "12",
+        "description": "diphtheria antitoxin",
+        "label": "diphtheria antitoxin",
+    },
+    {
+        "id": "28",
+        "description": "diphtheria and tetanus toxoids, adsorbed for pediatric use",
+        "label": "DT (pediatric)",
+    },
+    {
+        "id": "195",
+        "description": "Diptheria, Tetanus, Poliomyelitis adsorbed Notes: This ode should be used to document non-US vaccines for DT,IPV such as Revaxis",
+        "label": "DT, IPV adsorbed",
+    },
+    {
+        "id": "20",
+        "description": "diphtheria, tetanus toxoids and acellular pertussis vaccine",
+        "label": "DTaP",
+    },
+    {
+        "id": "106",
+        "description": "diphtheria, tetanus toxoids and acellular pertussis vaccine, 5 pertussis antigens",
+        "label": "DTaP, 5 pertussis antigens",
+    },
+    {
+        "id": "107",
+        "description": "diphtheria, tetanus toxoids and acellular pertussis vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a DTaP vaccination when noted on a vaccination card)",
+        "label": "DTaP, unspecified formulation",
+    },
+    {
+        "id": "146",
+        "description": "Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate (Meningococcal Protein Conjugate), and Hepatitis B (Recombinant) Vaccine. Notes: Note that this accine is different from CVX 132.",
+        "label": "DTaP,IPV,Hib,HepB",
+    },
+    {
+        "id": "110",
+        "description": "DTaP-hepatitis B and poliovirus vaccine",
+        "label": "DTaP-Hep B-IPV",
+    },
+    {
+        "id": "50",
+        "description": "DTaP-Haemophilus influenzae type b conjugate vaccine",
+        "label": "DTaP-Hib",
+    },
+    {
+        "id": "120",
+        "description": "diphtheria, tetanus toxoids and acellular pertussis vaccine, Haemophilus influenzae type b conjugate, and poliovirus vaccine, inactivated (DTaP-Hib-IPV)",
+        "label": "DTaP-Hib-IPV",
+    },
+    {
+        "id": "130",
+        "description": "Diphtheria, tetanus toxoids and acellular pertussis vaccine, and poliovirus vaccine, inactivated",
+        "label": "DTaP-IPV",
+    },
+    {
+        "id": "132",
+        "description": "Historical record of vaccine containing * diphtheria, tetanus toxoids and acellular pertussis, * poliovirus, inactivated, * Haemophilus influenzae type b conjugate, * Hepatitis B Notes: This is not the same as CVX 146, Hexavalent vaccine.",
+        "label": "DTaP-IPV-HIB-HEP B, historical",
+    },
+    {
+        "id": "170",
+        "description": "non-US diphtheria, tetanus toxoids and acellular pertussis vaccine, Haemophilus influenzae type b conjugate, and poliovirus vaccine, inactivated (DTaP-Hib-IPV) Notes: This CVX was split off from CVX 102, to correctly identify the contents of the vaccine.",
+        "label": "DTAP/IPV/HIB - non-US",
+    },
+    {
+        "id": "01",
+        "description": "diphtheria, tetanus toxoids and pertussis vaccine",
+        "label": "DTP",
+    },
+    {
+        "id": "22",
+        "description": "DTP-Haemophilus influenzae type b conjugate vaccine",
+        "label": "DTP-Hib",
+    },
+    {
+        "id": "102",
+        "description": "DTP- Haemophilus influenzae type b conjugate and hepatitis b vaccine Notes: This CVX has been corrected. This non-US vaccine contained DTP, Hib and Hep B. It was withdrawn in 2007.",
+        "label": "DTP-Hib-Hep B",
+    },
+    {
+        "id": "57",
+        "description": "hantavirus vaccine",
+        "label": "hantavirus",
+    },
+    {
+        "id": "30",
+        "description": "hepatitis B immune globulin",
+        "label": "HBIG",
+    },
+    {
+        "id": "52",
+        "description": "hepatitis A vaccine, adult dosage",
+        "label": "Hep A, adult",
+    },
+    {
+        "id": "169",
+        "description": "Hep A, live attenuated-IM Notes: This vaccine is not available in the US.",
+        "label": "Hep A, live attenuated",
+    },
+    {
+        "id": "83",
+        "description": "hepatitis A vaccine, pediatric/adolescent dosage, 2 dose schedule",
+        "label": "Hep A, ped/adol, 2 dose",
+    },
+    {
+        "id": "84",
+        "description": "hepatitis A vaccine, pediatric/adolescent dosage, 3 dose schedule Notes: This vaccine formulation is inactive and should not be used, except to record historic vaccinations with this formulation.",
+        "label": "Hep A, ped/adol, 3 dose",
+    },
+    {
+        "id": "31",
+        "description": "hepatitis A vaccine, pediatric dosage, unspecified formulation Notes: Do NOT use this code. If formulation is unknown, use CVX 85. There is only one formulation of Hep A, peds.",
+        "label": "Hep A, pediatric, unspecified formulation",
+    },
+    {
+        "id": "85",
+        "description": "hepatitis A vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HepA vaccination when noted on a vaccination card)",
+        "label": "HepA, unspecified formulation",
+    },
+    {
+        "id": "104",
+        "description": "hepatitis A and hepatitis B vaccine",
+        "label": "Hep A-Hep B",
+    },
+    {
+        "id": "193",
+        "description": "hepatitis A and hepatitis B vaccine, pediatric/adolescent (non-US) Notes: e.g. Twinrix Junior available in Canada",
+        "label": "Hep A-Hep B, pediatric/adolescent",
+    },
+    {
+        "id": "08",
+        "description": "hepatitis B vaccine, pediatric or pediatric/adolescent dosage Notes: This code applies to any standard pediatric formulation of Hepatitis B vaccine. It should not be used for the 2-dose hepatitis B schedule for adolescents (11-15 year olds). It requires Merck's Recombivax HB® adult formulation. Use code 43 for that vaccine.",
+        "label": "Hep B, adolescent or pediatric",
+    },
+    {
+        "id": "42",
+        "description": "hepatitis  vaccine, adolescent/high risk infant dosage Notes: As of August 27, 1998, Merck ceased distribution of their adolescent/high risk infant hepatitis B vaccine dosage. Code 42 should only be used to record historical records. For current administration of hepatitis B vaccine, pediatric/adolescent dosage, use code 08.",
+        "label": "Hep B, adolescent/high risk infant",
+    },
+    {
+        "id": "43",
+        "description": "hepatitis B vaccine, adult dosage Notes: As of September 1999, a 2-dose hepatitis B schedule for adolescents (11-15 year olds) was FDA approved for erck's Recombivax HB® adult formulation. Use code 43 for the 2-dose. This code should be used for any use of standard adult formulation of hepatitis B vaccine.",
+        "label": "Hep B, adult",
+    },
+    {
+        "id": "44",
+        "description": "hepatitis B vaccine, dialysis patient dosage",
+        "label": "Hep B, dialysis",
+    },
+    {
+        "id": "45",
+        "description": "hepatitis B vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HepB vaccination when noted on a vaccination card)",
+        "label": "Hep B, unspecified formulation",
+    },
+    {
+        "id": "58",
+        "description": "hepatitis C vaccine",
+        "label": "Hep C",
+    },
+    {
+        "id": "59",
+        "description": "hepatitis E vaccine",
+        "label": "Hep E",
+    },
+    {
+        "id": "154",
+        "description": "Hepatitis A immune globulin Notes: Do not use this code. This product may be used for Hep A and other viral infections. The correct vaccine / CVX is 86 (IG).",
+        "label": "Hepatitis A immune globulin",
+    },
+    {
+        "id": "189",
+        "description": "Hepatitis B vaccine (recombinant), CpG adjuvanted",
+        "label": "HepB-CpG",
+    },
+    {
+        "id": "60",
+        "description": "herpes simplex virus, type 2 vaccine",
+        "label": "herpes implex 2",
+    },
+    {
+        "id": "47",
+        "description": "Haemophilus influenzae type b vaccine, HbOC conjugate",
+        "label": "Hib (HbOC)",
+    },
+    {
+        "id": "46",
+        "description": "Haemophilus influenzae type b vaccine, PRP-D conjugate",
+        "label": "Hib (PRP-D)",
+    },
+    {
+        "id": "49",
+        "description": "Haemophilus influenzae type b vaccine, PRP-OMP conjugate",
+        "label": "Hib (PRP-OMP)",
+    },
+    {
+        "id": "48",
+        "description": "Haemophilus influenzae type b vaccine, PRP-T conjugate",
+        "label": "Hib (PRP-T)",
+    },
+    {
+        "id": "17",
+        "description": "Haemophilus influenzae type b vaccine, conjugate unspecified formulation",
+        "label": "Hib, unspecified formulation",
+    },
+    {
+        "id": "51",
+        "description": "Haemophilus influenzae type b conjugate and Hepatitis B vaccine Notes: This vaccine may still be in use until the existing lots expire on8/19/16.",
+        "label": "Hib-Hep B",
+    },
+    {
+        "id": "61",
+        "description": "human immunodeficiency virus vaccine",
+        "label": "HIV",
+    },
+    {
+        "id": "118",
+        "description": "human papilloma virus vaccine, bivalent",
+        "label": "HPV, bivalent",
+    },
+    {
+        "id": "62",
+        "description": "human papilloma virus vaccine, quadrivalent",
+        "label": "HPV, quadrivalent",
+    },
+    {
+        "id": "137",
+        "description": "HPV, unspecified formulation Notes: This VX code allows reporting of a vaccination when formulation is unknown (for example, when recording a HPV vaccination when noted on a vaccination card)",
+        "label": "HPV, unspecified formulation",
+    },
+    {
+        "id": "165",
+        "description": "Human Papillomavirus 9-valent vaccine",
+        "label": "HPV9",
+    },
+    {
+        "id": "86",
+        "description": "immune globulin, intramuscular",
+        "label": "IG",
+    },
+    {
+        "id": "14",
+        "description": "immune globulin, unspecified formulation",
+        "label": "IG, unspecified formulation",
+    },
+    {
+        "id": "87",
+        "description": "immune globulin, intravenous",
+        "label": "IGIV",
+    },
+    {
+        "id": "160",
+        "description": "Influenza A monovalent (H5N1), adjuvanted, National stockpile 2013 Notes: Approved by FDA 2013, adjuvant is mixed at point of administration.",
+        "label": "Influenza A monovalent (H5N1), ADJUVANTED-2013",
+    },
+    {
+        "id": "151",
+        "description": "influenza nasal, unspecified formulation Notes: This CVX should only be used for historical records where the formulation of nasal lu vaccine is not known.",
+        "label": "Influenza nasal, unspecified formulation",
+    },
+    {
+        "id": "123",
+        "description": "influenza virus vaccine, H5N1, A/Vietnam/1203/2004 (national stockpile)",
+        "label": "influenza, H5N1-1203",
+    },
+    {
+        "id": "135",
+        "description": "influenza, high dose seasonal, preservative-free",
+        "label": "Influenza, high dose seasonal",
+    },
+    {
+        "id": "153",
+        "description": "Influenza, injectable, Madin Darby Canine Kidney, preservative free Notes: ccIIV3",
+        "label": "Influenza, injectable, MDCK, preservative free",
+    },
+    {
+        "id": "171",
+        "description": "Influenza, injectable, Madin Darby Canine Kidney, preservative free, quadrivalent",
+        "label": "Influenza, injectable, MDCK, preservative free, quadrivalent",
+    },
+    {
+        "id": "186",
+        "description": "Influenza, injectable, Madin Darby anine Kidney, quadrivalent",
+        "label": "Influenza, injectable, MDCK, quadrivalent",
+    },
+    {
+        "id": "158",
+        "description": "influenza, injectable, quadrivalent, contains preservative Notes: Newin 2013. IIV4",
+        "label": "Influenza, injectable, quadrivalent",
+    },
+    {
+        "id": "150",
+        "description": "Influenza, injectable, quadrivalent, preservative free Notes: New in 2012. IIV4",
+        "label": "Influenza, injectable, quadrivalent, preservative free",
+    },
+    {
+        "id": "161",
+        "description": "Influenza, injectable,quadrivalent, preservative free, pediatric",
+        "label": "Influenza, injectable,quadrivalent, preservative free, pediatric",
+    },
+    {
+        "id": "166",
+        "description": "influenza, intradermal, quadrivalent, preservative free, injectable",
+        "label": "influenza, intradermal, quadrivalent, preservative free",
+    },
+    {
+        "id": "111",
+        "description": "influenza virus vaccine, live, attenuated, for intranasal use Notes: LAIV3",
+        "label": "Influenza, live, intranasal",
+    },
+    {
+        "id": "149",
+        "description": "influenza, live, intranasal, quadrivalent Notes: new in 2012. LAIV4",
+        "label": "influenza, live, intranasal, quadrivalent",
+    },
+    {
+        "id": "155",
+        "description": "Seasonal, trivalent, recombinant, injectable influenza vaccine, preservative free Notes: RIV",
+        "label": "Influenza, recombinant, injectable, preservative free",
+    },
+    {
+        "id": "185",
+        "description": "Seasonal, quadrivalent, ecombinant, injectable influenza vaccine, preservative free",
+        "label": "influenza, recombinant, quadrivalent,injectable, preservative free",
+    },
+    {
+        "id": "141",
+        "description": "Influenza, easonal, injectable Notes: IIV3. This is one of two codes replacing CVX 15, which is being retired.",
+        "label": "Influenza, seasonal, injectable",
+    },
+    {
+        "id": "140",
+        "description": "Influenza, seasonal, injectable, preservative free Notes: IIV3. This vaccine code is one of two which replace CVX 15, influenza, split virus.",
+        "label": "Influenza, seasonal, injectable, preservative free",
+    },
+    {
+        "id": "144",
+        "description": "seasonal influenza, intradermal, preservative free Notes: IIV3",
+        "label": "Influenza, seasonal, intradermal, preservative free",
+    },
+    {
+        "id": "194",
+        "description": "Influenza, Southern Hemisphere, unspecified formulation Notes: This CVX code should only be used to record the current or historic administration of non-US influenza vaccines for the Southern Hemisphere seasonal influenza",
+        "label": "Influenza, Southern Hemisphere",
+    },
+    {
+        "id": "15",
+        "description": "influenza virus vaccine, split virus (incl. purified surface antigen)-retired CODENotes: This code is being retired. It will still be found in older immunization records. It included both preservative free and non-preservative free.",
+        "label": "Influenza, split (incl. purified surface antigen)",
+    },
+    {
+        "id": "168",
+        "description": "Seasonal trivalent influenza vaccine, adjuvanted, preservative free",
+        "label": "influenza, trivalent, adjuvanted",
+    },
+    {
+        "id": "88",
+        "description": "influenza virus vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a Influenza vaccination when noted on a vaccination card)",
+        "label": "Influenza, unspecified formulation",
+    },
+    {
+        "id": "16",
+        "description": "influenza virus vaccine, whole virus",
+        "label": "Influenza, hole",
+    },
+    {
+        "id": "10",
+        "description": "poliovirus vaccine, inactivated",
+        "label": "IPV",
+    },
+    {
+        "id": "134",
+        "description": "Japanese Encephalitis vaccine for intramuscular administration",
+        "label": "Japanese Encephalitis IM",
+    },
+    {
+        "id": "39",
+        "description": "Japanese Encephalitis Vaccine SC",
+        "label": "Japanese encephalitis SC",
+    },
+    {
+        "id": "129",
+        "description": "Japanese Encephalitis vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a JE vaccination when noted on a vaccination ard)",
+        "label": "Japanese Encephalitis, unspecified formulation",
+    },
+    {
+        "id": "63",
+        "description": "Junin virus vaccine",
+        "label": "Junin virus",
+    },
+    {
+        "id": "64",
+        "description": "leishmaniasis vaccine",
+        "label": "leishmaniasis",
+    },
+    {
+        "id": "65",
+        "description": "leprosy vaccine",
+        "label": "leprosy",
+    },
+    {
+        "id": "66",
+        "description": "Lyme disease vaccine",
+        "label": "Lyme disease",
+    },
+    {
+        "id": "67",
+        "description": "malaria vaccine",
+        "label": "malaria",
+    },
+    {
+        "id": "05",
+        "description": "measles virus vaccine",
+        "label": "measles",
+    },
+    {
+        "id": "04",
+        "description": "measles and rubella virus vaccine",
+        "label": "Measlesand Rubella",
+    },
+    {
+        "id": "68",
+        "description": "melanoma vaccine",
+        "label": "melanoma",
+    },
+    {
+        "id": "191",
+        "description": "meningococcal A polysaccharide vaccine (non-US)",
+        "label": "meningococcal A polysaccharide (non-US)",
+    },
+    {
+        "id": "192",
+        "description": "meningococcal AC polysaccharide vaccine (non-US)",
+        "label": "meningococcal AC polysaccharide (non-US)",
+    },
+    {
+        "id": "163",
+        "description": "meningococcal B vaccine, recombinant, OMV, adjuvanted",
+        "label": "meningococcal B, OMV",
+    },
+    {
+        "id": "162",
+        "description": "meningococcal B vaccine, fully recombinant",
+        "label": "meningococcal B, recombinant",
+    },
+    {
+        "id": "164",
+        "description": "meningococcal B, unspecified formulation",
+        "label": "meningococcal B, unspecified",
+    },
+    {
+        "id": "103",
+        "description": "meningococcal C conjugate vaccine",
+        "label": "meningococcal C conjugate",
+    },
+    {
+        "id": "148",
+        "description": "Meningococcal Groups C and Y and Haemophilus b Tetanus Toxoid Conjugate Vaccine",
+        "label": "Meningococcal C/Y-HIB PRP",
+    },
+    {
+        "id": "147",
+        "description": "Meningococcal, MCV4, unspecified conjugate formulation(groups A, C, Y and W-135) Notes: This CVX should only be used for historical doses of meningococcal conjugate vaccine where the formulation is unknown (oligosaccharide vs polysaccharide). It is not the same as CVX 108, Meningococcal, unspecified formulation. This CVX is for unspecified Meningococcal conjugate vaccines.",
+        "label": "meningococcal MCV4, unspecified formulation",
+    },
+    {
+        "id": "136",
+        "description": "meningococcal oligosaccharide (groups A, C, Y and W-135) diphtheria toxoid conjugate vaccine (MCV4O)",
+        "label": "Meningococcal MCV4O",
+    },
+    {
+        "id": "114",
+        "description": "meningococcal polysaccharide (groups A, C, Y and W-135) diphtheria toxoid conjugate vaccine (MCV4P)",
+        "label": "meningococcal MCV4P",
+    },
+    {
+        "id": "32",
+        "description": "meningococcal polysaccharide vaccine (MPSV4)",
+        "label": "meningococcal MPSV4",
+    },
+    {
+        "id": "167",
+        "description": "meningococcal vaccine of unknown formulation and unknown serogroups Notes: This CVX is intended for use when any one of the meningococcal vaccines is recorded and there is no information about which serogroups are protected against. This code should not be used when a newly administered immunization is recorded.",
+        "label": "meningococcal, unknown serogroups",
+    },
+    {
+        "id": "108",
+        "description": "meningococcal ACWY vaccine, unspecified formulation Notes: This CVX is intended for use when one of the meningococcal vaccines containing serogroups A, C, W and Y (conjugate or polysaccaride) was given and the exact formulation was not recorded. It should not be used to record newly administered immunizations. It is not to be used when one of the meningococcal accines containing other serogroups was administered.",
+        "label": "meningococcal, unspecified formulation",
+    },
+    {
+        "id": "03",
+        "description": "measles, mumps and rubella virus vaccine",
+        "label": "MMR",
+    },
+    {
+        "id": "94",
+        "description": "measles, mumps, rubella, and varicella virus vaccine",
+        "label": "MMRV",
+    },
+    {
+        "id": "07",
+        "description": "mumps virus vaccine",
+        "label": "mumps",
+    },
+    {
+        "id": "998",
+        "description": "no vaccine administered Notes: Code 998 was added for use in VXU HL7 messages where the OBX segment is nested with the RXA segment, but the message does not contain information about a vaccine administration. An example of this use is to report the vaccines due next for a patient when no vaccine administration is being reported.",
+        "label": "no vaccine administered",
+    },
+    {
+        "id": "127",
+        "description": "Novel influenza-H1N1-09, injectable",
+        "label": "Novel influenza-H1N1-09",
+    },
+    {
+        "id": "128",
+        "description": "Novel influenza-H1N1-09, all formulations Notes: This code is used whenever the actual formulation is not determined or when aggregating all Novel H1N1 Influenza-09 immunizations for reporting to CRA. It should not be used for easonal influenza vaccine that is not otherwise specified. (NOS)",
+        "label": "Novel Influenza-H1N1-09, all formulations",
+    },
+    {
+        "id": "125",
+        "description": "Novel Influenza-H1N1-09, live virus for nasal administration",
+        "label": "Novel Influenza-H1N1-09, nasal",
+    },
+    {
+        "id": "126",
+        "description": "Novel influenza-H1N1-09, preservative-free, injectable",
+        "label": "Novel influenza-H1N1-09, reservative-free",
+    },
+    {
+        "id": "02",
+        "description": "trivalent poliovirus vaccine, live, oral Notes: This is the OPV that was used in the US",
+        "label": "OPV",
+    },
+    {
+        "id": "179",
+        "description": "Non-US monovalent oral polio vaccine, unspecified formulation Notes: This is a non-US vaccine that may be seen in some immunization histories. It is composed of either Type 1, Type 2 or Type 3 oral polio vaccine.",
+        "label": "OPV ,monovalent, unspecified",
+    },
+    {
+        "id": "178",
+        "description": "Non-US bivalent oral polio vaccine (types 1 and 3) Notes: This is a non-US vaccine that may be seen in some immunization histories.",
+        "label": "OPV bivalent",
+    },
+    {
+        "id": "182",
+        "description": "Oral Polio Vaccine, Unspecified formulation Notes: This code represents an oralpolio vaccine where the specific formulation is unknown.",
+        "label": "OPV, Unspecified",
+    },
+    {
+        "id": "69",
+        "description": "parainfluenza-3 virus vaccine",
+        "label": "parainfluenza-3",
+    },
+    {
+        "id": "177",
+        "description": "pneumococcal conjugate vaccine, 10 valent Notes: This is a foreign vaccine",
+        "label": "PCV10",
+    },
+    {
+        "id": "11",
+        "description": "pertussis vaccine",
+        "label": "pertussis",
+    },
+    {
+        "id": "23",
+        "description": "plague vaccine",
+        "label": "plague",
+    },
+    {
+        "id": "133",
+        "description": "pneumococcal conjugate vaccine, 13 valent",
+        "label": "Pneumococcal conjugate PCV 13",
+    },
+    {
+        "id": "100",
+        "description": "pneumococcal conjugate vaccine, 7 valent",
+        "label": "pneumococcal conjugate PCV 7",
+    },
+    {
+        "id": "152",
+        "description": "Pneumococcal Conjugate, unspecified formulation Notes: This CVX should only be used for historical records where the formulation of pneumococcal conjugate vaccine is not known.",
+        "label": "Pneumococcal Conjugate, unspecified formulation",
+    },
+    {
+        "id": "33",
+        "description": "pneumococcal polysaccharide vaccine, 23 valent",
+        "label": "pneumococcal polysaccharide PPV23",
+    },
+    {
+        "id": "109",
+        "description": "pneumococcal vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a pneumococcal vaccination when noted on a vaccination card)",
+        "label": "pneumococcal, unspecified formulation",
+    },
+    {
+        "id": "89",
+        "description": "poliovirus vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a polio vaccination when noted on a vaccination card)",
+        "label": "polio, unspecified formulation",
+    },
+    {
+        "id": "70",
+        "description": "Q fever vaccine",
+        "label": "Q fever",
+    },
+    {
+        "id": "175",
+        "description": "Human Rabies vaccine from human diploid cell culture",
+        "label": "Rabies - IM Diploid cell culture",
+    },
+    {
+        "id": "176",
+        "description": "Human rabies vaccine from Chicken fibroblast culture",
+        "label": "Rabies - IM fibroblast culture",
+    },
+    {
+        "id": "40",
+        "description": "rabies vaccine, for intradermal injection",
+        "label": "rabies, intradermal injection",
+    },
+    {
+        "id": "18",
+        "description": "rabies vaccine, for intramuscular injection RETIRED CODE Notes: This CVX code has been retired. It is replace by CVX 175, or CVX 176. It will continue to be found in historic records.",
+        "label": "rabies, intramuscular injection",
+    },
+    {
+        "id": "90",
+        "description": "rabies vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a rabies vaccination when noted on a vaccination card)",
+        "label": "rabies, unspecified formulation",
+    },
+    {
+        "id": "99",
+        "description": "RESERVED - do not use Notes: Code 99 will not be used in this table to avoid confusion with code 999.",
+        "label": "RESERVED - do not use",
+    },
+    {
+        "id": "72",
+        "description": "rheumatic fever accine",
+        "label": "rheumatic fever",
+    },
+    {
+        "id": "157",
+        "description": "Rho(D) Immune globulin - IM Notes: This immune globulin may be administered IM only.",
+        "label": "Rho(D) -IG IM",
+    },
+    {
+        "id": "159",
+        "description": "Rho(D) Unspecified formulation",
+        "label": "Rho(D) Unspecified formulation",
+    },
+    {
+        "id": "156",
+        "description": "Rho(D) Immune globulin- IV or IM Notes: This immune globulin may be administered either IM or IV.",
+        "label": "Rho(D)-IG",
+    },
+    {
+        "id": "73",
+        "description": "Rift Valley fever vaccine",
+        "label": "Rift Valley fever",
+    },
+    {
+        "id": "34",
+        "description": "rabies immune globulin",
+        "label": "RIG",
+    },
+    {
+        "id": "119",
+        "description": "rotavirus, live, monovalent vaccine",
+        "label": "rotavirus, monovalent",
+    },
+    {
+        "id": "116",
+        "description": "rotavirus, live, pentavalent vaccine",
+        "label": "rotavirus, pentavalent",
+    },
+    {
+        "id": "74",
+        "description": "rotavirus, live, tetravalent vaccine",
+        "label": "rotavirus, tetravalent",
+    },
+    {
+        "id": "122",
+        "description": "rotavirus vaccine, unspecified formulation",
+        "label": "rotavirus, unspecified formulation",
+    },
+    {
+        "id": "71",
+        "description": "respiratory syncytial virus immune globulin, intravenous",
+        "label": "RSV-IGIV",
+    },
+    {
+        "id": "93",
+        "description": "respiratory syncytial virus monoclonal antibody (palivizumab), intramuscular",
+        "label": "RSV-MAb",
+    },
+    {
+        "id": "145",
+        "description": "respiratory syncytial virus monoclonal antibody (motavizumab), intramuscular",
+        "label": "RSV-Mab (new)",
+    },
+    {
+        "id": "06",
+        "description": "rubella virus vaccine",
+        "label": "rubella",
+    },
+    {
+        "id": "38",
+        "description": "rubella and mumps virus vaccine",
+        "label": "rubella/mumps",
+    },
+    {
+        "id": "76",
+        "description": "Staphylococcus bacteriophage lysate",
+        "label": "Staphylococcus bacterio lysate",
+    },
+    {
+        "id": "138",
+        "description": "tetanus and diphtheria toxoids, not adsorbed, for adult use Notes: Note that this Td is not adsorbed.",
+        "label": "Td (adult)",
+    },
+    {
+        "id": "113",
+        "description": "tetanus and diphtheria toxoids, adsorbed, preservative free, for adult use",
+        "label": "Td (adult) preservative free",
+    },
+    {
+        "id": "09",
+        "description": "tetanus and diphtheria toxoids, adsorbed, for adult use Notes: Note that this vaccine name has changed. See also Td (adult). It is not adsorbed.",
+        "label": "Td (adult), adsorbed",
+    },
+    {
+        "id": "139",
+        "description": "Td(adult) unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a Td vaccination when noted on a vaccination card)",
+        "label": "Td(adult) unspecified formulation",
+    },
+    {
+        "id": "115",
+        "description": "tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine, adsorbed",
+        "label": "Tdap",
+    },
+    {
+        "id": "180",
+        "description": "tetanus immune globulin Notes: This record uplicates CVX 13 (TIG). Do not use CVX 180.",
+        "label": "tetanus immune globulin",
+    },
+    {
+        "id": "35",
+        "description": "tetanus toxoid, adsorbed",
+        "label": "tetanus toxoid, adsorbed",
+    },
+    {
+        "id": "142",
+        "description": "tetanus toxoid, not adsorbed",
+        "label": "tetanus toxoid, not adsorbed",
+    },
+    {
+        "id": "112",
+        "description": "tetanus toxoid, unspecified formulation",
+        "label": "tetanus toxoid, unspecified formulation",
+    },
+    {
+        "id": "77",
+        "description": "tick-borne encephalitis vaccine",
+        "label": "tick-borne encephalitis",
+    },
+    {
+        "id": "13",
+        "description": "tetanus immune globulin",
+        "label": "TIG",
+    },
+    {
+        "id": "98",
+        "description": "tuberculin skin test; unspecified formulation Notes: TB Skin test is not vaccine.",
+        "label": "TST, unspecified formulation",
+    },
+    {
+        "id": "95",
+        "description": "tuberculin skin est; old tuberculin, multipuncture device Notes: TB Skin test is not vaccine.",
+        "label": "TST-OT tine test",
+    },
+    {
+        "id": "96",
+        "description": "tuberculin skin test; purified protein derivative solution, intradermal Notes: TB Skin test is not vaccine.",
+        "label": "TST-PPD intradermal",
+    },
+    {
+        "id": "97",
+        "description": "tuberculin skin test; purified protein derivative, multipuncture device Notes: TB Skin test is not vaccine.",
+        "label": "TST-PPD tine test",
+    },
+    {
+        "id": "78",
+        "description": "tularemia vaccine",
+        "label": "tularemia vaccine",
+    },
+    {
+        "id": "190",
+        "description": "Typhoid conjugate vaccine (non-US)",
+        "label": "Typhoid conjugate vaccine (TCV)",
+    },
+    {
+        "id": "25",
+        "description": "typhoid vaccine, live, oral",
+        "label": "typhoid, oral",
+    },
+    {
+        "id": "41",
+        "description": "typhoid vaccine, parenteral, other than acetone-killed, dried",
+        "label": "typhoid, parenteral",
+    },
+    {
+        "id": "53",
+        "description": "typhoid vaccine, parenteral, acetone-killed, dried (U.S. military)",
+        "label": "typhoid, parenteral, AKD (U.S. military)",
+    },
+    {
+        "id": "91",
+        "description": "typhoid vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a typhoid vaccination when noted on a vaccination card)",
+        "label": "typhoid, unspecified formulation",
+    },
+    {
+        "id": "101",
+        "description": "typhoid Vi capsular polysaccharide vaccine",
+        "label": "typhoid, ViCPs",
+    },
+    {
+        "id": "131",
+        "description": "Historical record of a typhus vaccination",
+        "label": "typhus, historical",
+    },
+    {
+        "id": "999",
+        "description": "unknown vaccine or immune globulin Notes: This CVX code has little utility and should rarely be used.",
+        "label": "unknown",
+    },
+    {
+        "id": "75",
+        "description": "vaccinia (smallpox) vaccine",
+        "label": "vaccinia (smallpox)",
+    },
+    {
+        "id": "105",
+        "description": "vaccinia (smallpox) vaccine, diluted",
+        "label": "vaccinia (smallpox) diluted",
+    },
+    {
+        "id": "79",
+        "description": "vaccinia immune globulin",
+        "label": "vaccinia immune globulin",
+    },
+    {
+        "id": "21",
+        "description": "varicella virus vaccine",
+        "label": "varicella",
+    },
+    {
+        "id": "81",
+        "description": "Venezuelan equine encephalitis, inactivated",
+        "label": "VEE, inactivated",
+    },
+    {
+        "id": "80",
+        "description": "Venezuelan equine encephalitis, live, attenuated",
+        "label": "VEE, live",
+    },
+    {
+        "id": "92",
+        "description": "Venezuelan equine encephalitis vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a VEE vaccination when noted on a vaccination card)",
+        "label": "VEE, unspecified formulation",
+    },
+    {
+        "id": "36",
+        "description": "varicella zoster immune globulin",
+        "label": "VZIG",
+    },
+    {
+        "id": "117",
+        "description": "varicella zoster immune globulin (Investigational New Drug)",
+        "label": "VZIG (IND)",
+    },
+    {
+        "id": "37",
+        "description": "yellow fever vaccine Notes: This is the YF vaccine that has been available in the US for years. It is stabilized with sorbitol and gelatin.",
+        "label": "yellow fever",
+    },
+    {
+        "id": "183",
+        "description": "Yellow fever vaccine alternative formulation Notes: This vaccine is stabilized with sorbitol and lactose and has been used outside the US for some time. It will be made available in the US.",
+        "label": "Yellow fever vaccine - alt",
+    },
+    {
+        "id": "184",
+        "description": "Yellow fever vaccine, unspecified formulation",
+        "label": "Yellow fever, unspecified formulation",
+    },
+    {
+        "id": "121",
+        "description": "zoster vaccine, live",
+        "label": "zoster",
+    },
+    {
+        "id": "187",
+        "description": "zoster vaccinerecombinant",
+        "label": "zoster recombinant",
+    },
+    {
+        "id": "188",
+        "description": "zoster vaccine, unspecified formulation Notes: This CVX code allows reporting of a vaccination when formulation is unknown (for example, when recording a zoster vaccination when noted on a vaccination card)",
+        "label": "zoster, unspecified formulation",
+    },
+]

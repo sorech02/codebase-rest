@@ -1,28 +1,17 @@
+import ast
+
 from flask import Flask, jsonify, abort, make_response, url_for
 
 app = Flask(__name__)
 
-cvxs = [
-    {
-        'id': 143,
-        'label': 'Adenovirus types 4 and 7',
-        'description': 'Adenovirus, type 4 and type 7, live, oral Notes: This vaccine is administered as 2 tablets.',
-        'status': 'Valid',
-    },
-    {
-        'id': 54,
-        'label': 'adenovirus, type 4',
-        'description': 'adenovirus vaccine, type 4, live, oral',
-        'status': 'Valid',
-    },
-]
-
+with open('cvx.txt', 'r') as f:
+    cvxs = ast.literal_eval(f.read())
 
 @app.route('/codeset/cvx')
 def get_all_cvx():
     return jsonify({'cvxs': [build_instance_uri(cvx) for cvx in cvxs]})
 
-@app.route('/codeset/cvx/<int:cvx_id>', methods=['GET'])
+@app.route('/codeset/cvx/<cvx_id>', methods=['GET'])
 def get_cvx(cvx_id):
     cvx = [cvx for cvx in cvxs if cvx['id'] == cvx_id]
     if len(cvx) == 0:
